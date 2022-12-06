@@ -1,11 +1,11 @@
 import React from 'react';
 
-function Register() {
+function About() {
   return (
     <div>
-      Register
+      About us
     </div>
   );
 }
 
-export default Register;
+export default About;
